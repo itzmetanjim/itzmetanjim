@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=itzmetanjim&repo=py-positron&theme=ambient_gradient&show-repo-owner=true" alt="py-positron Repo Card"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=itzmetanjim&repo=py-positron&theme=ambient_gradient&show_owner=true" alt="py-positron Repo Card"/>
 </p>
 
 # 👋 Hello, I'm Tanjim Kamal
