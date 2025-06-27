@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=itzmetanjim&repo=py-positron&theme=ambient_gradient&show_owner=true" alt="py-positron Repo Card"/>
-</p>
-
 # 👋 Hello, I'm Tanjim Kamal
 
 Welcome to my GitHub profile! I'm a Student passionate about leveraging mathematics, science, and machine learning to solve real-world problems.
@@ -10,6 +6,10 @@ Welcome to my GitHub profile! I'm a Student passionate about leveraging mathemat
 
 ## 🚀 About Me
 - 🔭 I’m currently working on PyPositron, a Python UI framework that can be used to develop UIs with HTML,CSS,JS,Python, and **any HTML/CSS/JS framework**! It's in Alpha stage so if you want to try it out, test it and/or contribute, check out [the repository!](itzmetanjim/py-positron)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=itzmetanjim&repo=py-positron&theme=ambient_gradient&show_owner=true" alt="py-positron Repo Card"/>
+</p>
+
 💬 Ask me about Math, Science, ML, Data Science, or Physics  
 📫 How to reach me: Drop an issue or discussion on my repos!  
 
