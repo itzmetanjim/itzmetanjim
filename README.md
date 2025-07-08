@@ -22,3 +22,4 @@ Welcome to my GitHub profile! I'm a Student passionate about leveraging mathemat
 
 ## 📫 Connect with Me
 I'm currently not active on social media, but feel free to explore my repositories and open an issue or discussion!
+If you want to contact me, go to [the discussions of the repository itzmetanjim/itzmetanjim](https://github.com/itzmetanjim/itzmetanjim/discussions/1)
