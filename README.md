@@ -23,14 +23,13 @@ Welcome to my GitHub profile! I'm a student.
 
 </div>
 
-🌎 **Will be participating in World Economics Cup 2025**  
-*(not happened yet)*
+🌎 **Participating in World Economics Cup 2025**  
 
 ### **🥇 Major Awards**
 
 - 🏆 [**Champion and Sajol Kajol Memorial Prize** at **National Bangladesh Mathematical Olympiad 2024** (Primary Category) + Primary Camp Participant](https://online.matholympiad.org.bd/profile/315094)
 - 🏆 [**BdJSO National 2023 Champion** (Primary Category)](https://online.bdjso.org/profile/601749#:~:text=National%20Olympiad%202023%20Champion)
-- 🏅 **7^th^ at Bangladesh Physics Olympiad 2024 National** (Category A)
+- 🏅 **7th at Bangladesh Physics Olympiad 2024 National** (Category A)
 - 🏅 [**Honorable Mention at National Bangladesh Mathematical Olympiad 2025** (Junior Category)](https://online.matholympiad.org.bd/profile/315094) + Junior Camp Participant
 
 ### **🏆 Other Recognition**
