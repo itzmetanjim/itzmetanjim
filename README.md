@@ -1,16 +1,24 @@
+<div align="center">
+
 # 👋 Hello, I'm Tanjim Kamal
 
-Welcome to my GitHub profile! I'm a student.
+</div>
 
+Welcome to my GitHub profile! I'm a student interested in math, science, etc.
+
+
+<div align="center">
 
 ## 🚀 About Me
+
+</div>
 - 🔭 I’m currently working on PyPositron, a Python UI framework that can be used to develop UIs with HTML,CSS,JS,Python, and **any HTML/CSS/JS framework**! It's in Alpha stage so if you want to try it out, test it and/or contribute, check out [the repository!](itzmetanjim/py-positron)
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=itzmetanjim&repo=py-positron&theme=ambient_gradient&show_owner=true" alt="py-positron Repo Card"/>
 </p>
 
 * 💬 Ask me about Math, Science, ML, Data Science, or Physics  
-* 📫 How to reach me: Drop an issue or [discussion on this repo!](https://github.com/itzmetanjim/itzmetanjim/discussions/1)  
+* 📫 How to reach me: Drop an issue or [discuss on this repo!](https://github.com/itzmetanjim/itzmetanjim/discussions/1)  
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=itzmetanjim&show_icons=true&theme=ambient_gradient&hide_rank=true&include_all_commits=true&hide_title=true" alt="Tanjim's GitHub Stats" height="165"/>
@@ -23,7 +31,7 @@ Welcome to my GitHub profile! I'm a student.
 
 </div>
 
-🌎 **Participating in World Economics Cup 2025**  
+🌎 **Participating in [World Economics Cup 2025](https://www.worldeconcup.org/wec-2025)**  
 
 ### **🥇 Major Awards**
 
@@ -41,6 +49,6 @@ Welcome to my GitHub profile! I'm a student.
 - 🥇 [Comilla Zilla School Science Carnival 3.0 2022 Science Quiz 1^st^ Runner Up](https://www.facebook.com/share/1B1FftDVC1/)
 
 
-## 📫 Connect with Me
+## 📫 Contact Me
 I'm currently not active on social media, but feel free to explore my repositories and open an issue or discussion!
 If you want to contact me, go to [the discussions of the repository itzmetanjim/itzmetanjim](https://github.com/itzmetanjim/itzmetanjim/discussions/1)
